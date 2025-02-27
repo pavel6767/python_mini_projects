@@ -9,3 +9,6 @@
 ## 3. Computer Guess Number
 - given a user's choice of a random number, and a range [0,n]
 - the computer will use binary search to guess and request feedback on whether the guess is too low/high
+## 4. Rock Paper Scissors
+- User is prompted to select rock, paper scissors
+- Computer randomly selects and returns result (draw, win, lose) 
